@@ -1,6 +1,6 @@
 # [EditorMD](https://dt27.org/php/editormd-for-typecho/)
 
-![EditorMD](https://dt27.org/usr/uploads/2016/03/2477390697.png)
+![EditorMD](README.assets/image-20230530133849220.png)
 
 **Markdown 编辑器 [Editor.md](https://pandao.github.io/editor.md/) for Typecho**
 
